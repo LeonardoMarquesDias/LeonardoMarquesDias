@@ -55,7 +55,7 @@
     <code><img width="54" src="https://image.flaticon.com/icons/png/512/281/281769.png"/></code>
   </a>
   <a href="https://api.whatsapp.com/send?phone=447466999610&text=Hello, I came by your github" target="_blank">
-    <code><img width="54" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/WhatsApp.svg.png"/></code>
+    <code><img width="56" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/WhatsApp.svg.png"/></code>
   </a>
    <a href="https://t.me/leonardolmdias" target="_blank">
     <code><img width="52" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png"/></code>
