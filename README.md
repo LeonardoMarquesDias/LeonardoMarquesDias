@@ -19,11 +19,10 @@
 <code><img width="40" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/vsCode.svg"></code>
 <code><img width="40" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/discord.svg"></code>
 <code><img width="40" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/notion.png"></code>
-
 <br/>
 <br/>
 
-
+#
 
 <details open="">
 <summary>
@@ -55,7 +54,7 @@
   <a href="https://api.whatsapp.com/send?phone=447466999610&text=Hello, I came by your github" target="_blank">
     <code><img width="60" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/WhatsApp.svg.png"/></code>
   </a>
-   <a href="https://t.me/LeonardoMarquesDias" target="_blank">
+   <a href="https://t.me/leonardolmdias" target="_blank">
     <code><img width="53" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png"/></code>
   </a>
 </p>
@@ -66,9 +65,10 @@
 
 #
 
-<h3>𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗩𝗶𝘀𝗶𝘁𝗶𝗻𝗴 <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> </h3>
+<h3>𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗩𝗶𝘀𝗶𝘁𝗶𝗻𝗴 </h3>
+<h4>𝐂𝐫𝐞𝐝𝐢𝐭: <a href="https://github.com/LeonardoMarquesDias">LeonardoDias</a></h4>
 
 #
 
-<h4>𝐂𝐫𝐞𝐝𝐢𝐭: <a href="https://github.com/LeonardoMarquesDias">LeonardoDias</a></h4>
-<p> 𝐋𝐚𝐬𝐭 𝐄𝐝𝐢𝐭𝐞𝐝 𝐨𝐧: 06/08/2021 </p>
+
+
