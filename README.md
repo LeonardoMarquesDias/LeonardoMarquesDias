@@ -1,6 +1,6 @@
 <div> 
 <h1> 𝐇𝐢! 𝐈'𝐦 𝐋𝐞𝐨𝐧𝐚𝐫𝐝𝐨.</h1>
-<img align="right" width="55%" src="https://cdn.dribbble.com/users/220167/screenshots/2373375/resp_dribbble.gif">
+<img align="right" width="50%" src="https://cdn.dribbble.com/users/220167/screenshots/2373375/resp_dribbble.gif">
 
 <h2> <img src="https://emoji.gg/assets/emoji/6705-githubblack.png" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
 
@@ -8,19 +8,19 @@
 <li> 🧠 𝖨’𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 <strong> Next.js </strong></li>
 
 <h2>Always Learning</h2>
-<code><img width="40" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/CSS.svg"></code>
-<code><img width="40" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/HTML.svg"></code>
-<code><img width="40" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/JS.svg"></code>
-<code><img width="40" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/typescript.svg"></code>
-<code><img width="40" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/react.svg"></code>
+<code><img width="35" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/CSS.svg"></code>
+<code><img width="35" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/HTML.svg"></code>
+<code><img width="35" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/JS.svg"></code>
+<code><img width="35" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/typescript.svg"></code>
+<code><img width="35" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/react.svg"></code>
 
 <h2>𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬:</h2>
-<code><img width="40" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/git.svg"></code>
-<code><img width="40" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/github.svg"></code>
-<code><img width="40" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/Figma.png"></code>
-<code><img width="37" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/vsCode.svg"></code>
-<code><img width="37" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/discord.svg"></code>
-<code><img width="37" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/notion.png"></code>
+<code><img width="35" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/git.svg"></code>
+<code><img width="35" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/github.svg"></code>
+<code><img width="35" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/Figma.png"></code>
+<code><img width="35" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/vsCode.svg"></code>
+<code><img width="35" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/discord.svg"></code>
+<code><img width="35" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/notion.png"></code>
 
 </div>
 
