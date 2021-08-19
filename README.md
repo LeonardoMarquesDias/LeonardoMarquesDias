@@ -50,7 +50,7 @@
   <a href="mailto: leonardo_marquesdias@hotmail.com" target="_blank">
     <code><img width="52" src="https://image.flaticon.com/icons/png/512/281/281769.png"/></code>
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5511994361385&text=Oi!, vim pelo seu github" target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=447466999610&text=Hello, I came by your github" target="_blank">
     <code><img width="60" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/WhatsApp.svg.png"/></code>
   </a>
    <a href="https://t.me/LeonardoMarquesDias" target="_blank">
