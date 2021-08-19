@@ -14,7 +14,7 @@
 <code><img width="35" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/typescript.svg"></code>
 <code><img width="35" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/react.svg"></code>
 
-<h2>𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬:</h2>
+<h2>Languages and Tools:</h2>
 <code><img width="35" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/git.svg"></code>
 <code><img width="35" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/github.svg"></code>
 <code><img width="35" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/Figma.png"></code>
