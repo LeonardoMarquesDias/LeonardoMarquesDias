@@ -21,6 +21,7 @@
 <code><img width="37" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/discord.svg"></code>
 <code><img width="37" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/notion.png"></code>
 
+<br/>
 
 #
 
