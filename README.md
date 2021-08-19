@@ -3,19 +3,23 @@
 
 <h2> <img src="https://emoji.gg/assets/emoji/6705-githubblack.png" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
 
-<li> 💻 𝖨'𝗆 𝖿𝗋𝗈𝗇𝗍-𝖾𝗇𝖽 ReactJS 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 </li>
-<li> 🧠 𝖨’𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 Next.js </li>
-<li> 📌 𝖨’𝗆 𝖨𝗂𝗏𝖾 𝗂𝗇 𝗅𝗂𝗏𝖾𝗋𝗉𝗈𝗈𝗅 </li>
+<li> 💻 𝖨'𝗆 𝖿𝗋𝗈𝗇𝗍-𝖾𝗇𝖽 <strong>ReactJS</strong> 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 </li>
+<li> 🧠 𝖨’𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 <strong>TypeScript, Next.js </strong></li>
 
-<br/>
 <h2>𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬:</h2>
-<code><img width="40" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/CSS.svg"></code>
-<code><img width="40" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/HTML.svg"></code>
-<code><img width="40" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/JS.svg"></code>
 <code><img width="40" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/git.svg"></code>
 <code><img width="40" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/github.svg"></code>
 <code><img width="40" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/Figma.png"></code>
 <code><img width="37" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/vsCode.svg"></code>
+<code><img width="37" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/discord.svg"></code>
+<code><img width="37" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/notion.png"></code>
+
+<h2>Always Learning</h2>
+<code><img width="40" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/CSS.svg"></code>
+<code><img width="40" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/HTML.svg"></code>
+<code><img width="40" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/JS.svg"></code>
+<code><img width="40" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/typescript.svg"></code>
+<code><img width="40" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/react.svg"></code>
 
 <br/>
 <br/>
