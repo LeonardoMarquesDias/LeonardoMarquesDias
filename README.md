@@ -1,11 +1,6 @@
-<div> 
-<h1> 𝐇𝐢! 𝐈'𝐦 𝐋𝐞𝐨𝐧𝐚𝐫𝐝𝐨.</h1>
-
 <h2> <img src="https://emoji.gg/assets/emoji/6705-githubblack.png" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
 
 <img align="right" width="50%" src="https://cdn.dribbble.com/users/220167/screenshots/2373375/resp_dribbble.gif">
-
-
 
 <li> 💻 𝖨'𝗆 𝖿𝗋𝗈𝗇𝗍-𝖾𝗇𝖽 <strong>ReactJS</strong> 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 </li>
 <li> 🧠 𝖨’𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 <strong> Next.js </strong></li>
@@ -25,8 +20,7 @@
 <code><img width="40" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/discord.svg"></code>
 <code><img width="40" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/notion.png"></code>
 
-</div>
-
+<br/>
 <br/>
 
 #
