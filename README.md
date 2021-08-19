@@ -1,5 +1,6 @@
+<div> 
 <h1> 𝐇𝐢! 𝐈'𝐦 𝐋𝐞𝐨𝐧𝐚𝐫𝐝𝐨.</h1>
-<img align="right" width="50%" src="https://cdn.dribbble.com/users/220167/screenshots/2373375/resp_dribbble.gif">
+<img align="right" width="50%" height="100%" src="https://cdn.dribbble.com/users/220167/screenshots/2373375/resp_dribbble.gif">
 
 <h2> <img src="https://emoji.gg/assets/emoji/6705-githubblack.png" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
 
@@ -21,6 +22,9 @@
 <code><img width="37" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/discord.svg"></code>
 <code><img width="37" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/notion.png"></code>
 
+</div>
+
+<br/>
 <br/>
 
 #
