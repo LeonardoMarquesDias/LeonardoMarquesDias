@@ -64,7 +64,7 @@
 <br/>
 
 
-  ![Snake animation](https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/output/github-contribution-grid-snake.svg)
+
 
 #
 
