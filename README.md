@@ -48,7 +48,7 @@
 
 <p align="center">
   <br>
-   <a href="https://www.linkedin.com/in/leonardo-marques-dias-a726521a6/" target="_blank">
+   <a href="https://www.linkedin.com/in/leonardo-dias-a726521a6/" target="_blank">
     <code><img width="52" src="https://image.flaticon.com/icons/png/512/145/145807.png"/></code>
   </a>
   <a href="mailto: leonardo_marquesdias@hotmail.com" target="_blank">
