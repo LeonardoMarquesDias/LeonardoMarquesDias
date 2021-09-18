@@ -2,8 +2,8 @@
 
 <img align="right" width="50%" src="https://cdn.dribbble.com/users/220167/screenshots/2373375/resp_dribbble.gif">
 
-<li> 💻 𝖨'𝗆 𝖿𝗋𝗈𝗇𝗍-𝖾𝗇𝖽 <strong>ReactJS</strong> 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 </li>
-<li> 🧠 𝖨’𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 <strong> Next.js </strong></li>
+<li> 𝖨'𝗆 𝖿𝗋𝗈𝗇𝗍-𝖾𝗇𝖽 <strong>ReactJS</strong> 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 </li>
+<li> 𝖨’𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 <strong> Next.js </strong></li>
 
 <h2>Always Learning</h2>
 <code><img width="40" src="https://github.com/LeonardoMarquesDias/LeonardoMarquesDias/blob/main/assets/CSS.svg"></code>
